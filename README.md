@@ -1,2 +1,8 @@
-# react_native_example
-This is an example combining the usage of React Native hooks, navigation libraries, fetch method and other React APIs.
+# Data Center Management Mobile Application
+
+## Docs
+- https://graphicalnetworks.com/blog-need-to-migrate-away-from-netviz/
+
+## App Download: 
+- iOS: https://apps.apple.com/us/app/netterrain/id1545529863
+- Android: https://play.google.com/store/apps/details?id=com.netterrain&pli=1
